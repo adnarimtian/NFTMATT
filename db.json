@@ -5,12 +5,6 @@
           "description": "FIRST NFT MATT",
           "external_url": "https://www.google.com/", 
           "name": "NFT MATT 0"
-        },
-        {
-          "id": 1,
-          "description": "SECOND NFT MATT",
-          "external_url": "https://www.google.com/", 
-          "name": "NFT MATT 1"
         }
     ]
 }
